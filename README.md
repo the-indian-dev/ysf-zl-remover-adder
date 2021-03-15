@@ -1,5 +1,5 @@
 # ysf-zl-remover-adder
-It adds the line ZL or removes the line ZL. It works with YSF planes .dnm or .srf files.
+It adds the line ZL or removes the line ZL. It works with YSF planes .dnm files.
 ## How to use
 
 Step 1 > Create a ```input``` and a ```output``` folder in same directory (Terminal ```mkdir input && mkdir output```).<br />
